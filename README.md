@@ -192,7 +192,7 @@ StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国�
 
 ### StrongVPN在中国表现怎么样？
 
-StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Global公司NetProtect项目旗下的品牌，J2 Global是纳斯达克上市公司（目前改名为Ziff Davis集团，股票代码：ZD），公司主营业务主要是为个人和企业提供通信、软件和数字媒体服务，技术和资金实力十分雄厚。目前进入VPN领域已有16年，近几年开始也开始重视开发中国市场，他家售后服务很不错，它也和ExpressVPN一样，为应对墙的持续封锁，发布了一个在中国使用StrongVPN的并实时更新的帖子，**给在中国境内的用户提供最新的使用信息和公告，进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">StrongVPN官网</a>，点击右上角Help，查找 “在中国境内如何下载，安装以及使用StrongVPN”**。其实据我了解，这款VPN在过去几年在中国一直可用，只是由于官网被墙，在国人用户群体中略显小众，使用者是以在中国的老外居多。**技术客服很给力（官网登录账号后，点击右下角的“Help”帮助聊天框，选择Technical Support），过去的几次大封锁期间，我都是通过技术客服给我的备用翻墙方案，备用的线路使用也一直比较稳定**。
+StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Global公司NetProtect项目旗下的品牌，J2 Global是纳斯达克上市公司（目前改名为Ziff Davis集团，股票代码：ZD），公司主营业务主要是为个人和企业提供通信、软件和数字媒体服务，技术和资金实力十分雄厚。目前进入VPN领域已有16年，近几年开始也开始重视开发中国市场，他家售后服务很不错，它也和ExpressVPN一样，为应对墙的持续封锁，发布了一个在中国使用StrongVPN的并实时更新的帖子，**给在中国境内的用户提供最新的使用信息和公告，进入<a rel="nofollow noopener" href="https://tg1.reami.us/#/register?code=nRx0UI5X" target="_blank">StrongVPN官网</a>，点击右上角Help，查找 “在中国境内如何下载，安装以及使用StrongVPN”**。其实据我了解，这款VPN在过去几年在中国一直可用，只是由于官网被墙，在国人用户群体中略显小众，使用者是以在中国的老外居多。**技术客服很给力（官网登录账号后，点击右下角的“Help”帮助聊天框，选择Technical Support），过去的几次大封锁期间，我都是通过技术客服给我的备用翻墙方案，备用的线路使用也一直比较稳定**。
 
 **最新提醒**：目前国内能使用V2版本的客户端，也就是官网的用户后台“StrongVPN Client”直接下载的通用版客户端，协议选择OpenVPN或者IKEV2，Win/MacOS/Android/iOS系统客户端都能使用，如有任何问题直接在官网的Support页面的在线窗口询问客服或是发Ticket询问。
 
@@ -200,7 +200,7 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 >下载安装Strong的客户端和使用请详细阅读本文或者官网的提示文章，避免后续使用出现问题。
 
-有梯子的同学直接可访问<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">StrongVPN官网</a>，但如果在套餐下单时页面出现“We detected that you are using a VPN or Proxy service...”而不能购买（可以顺利下单的话不用管），说明StrongVPN反欺诈系统检测到你是用代理IP访问的（国外存在代理IP盗刷信用卡），要断开梯子使用本地网络访问官网，方法如下文。
+有梯子的同学直接可访问<a rel="nofollow noopener" href="https://tg1.reami.us/#/register?code=nRx0UI5X" target="_blank">StrongVPN官网</a>，但如果在套餐下单时页面出现“We detected that you are using a VPN or Proxy service...”而不能购买（可以顺利下单的话不用管），说明StrongVPN反欺诈系统检测到你是用代理IP访问的（国外存在代理IP盗刷信用卡），要断开梯子使用本地网络访问官网，方法如下文。
 
 **国内本地网络访问方法**：Strong官网在中国被墙，国内打开官网需要改电脑Host文件，因为其官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。
 
