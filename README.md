@@ -180,7 +180,7 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 
 ## 1.<a rel="nofollow noopener" href="#如何打开星辰VPN官网" target="_blank"> 星辰VPN – 性价比最佳</a>
 
-[![星辰VPN](https://www.safewebcn.com/img/strong-logo.png)](#1-星辰VPN--性价比最佳)
+[![星辰VPN](https://cf.reami.us/imgs/logo.png)](#1-星辰VPN--性价比最佳)
 
 >2023年使用，确认可用，但最近2个月太敏感，封锁的VPN和其他科学上网太多，如果突然遇到线路的连接问题，联系客服提供中国大陆的可用线路或是备用线路。这款我使用了3年，可用节点中有些节点的网络传输速度不错，有些节点的速度就一般，要根据自己的网络环境测试。**目前星辰VPN的套餐价位的性价比应该是大牌VPN里面最好的**，有优惠码可使用。**通用版客户端直接在官网用户后台下载安装即可，目前在国内能使用**。另外，Windows、Mac和Android设备用户建议在官网用户页面的右下方的“Help”聊天框找在线客服(Technical Support)获取特供的精简客户端V1 app，直接说在中国使用就行了，通用版客户端很多时候也能用，可以把精简版客户端作为备用选择。这也是星辰官方尽量避免被墙的策略，官方的标准客户端版本在敏感时期可能会遇到登录或连接问题，需等待版本更新，另外**如果遇到大封锁，联系客服获取可用的服务器线路和推荐协议**。另外由于iOS系统的限制，客户端没有备用的iOS的特供版本，只有通用版本，大部分时候都能连，敏感时期可以联系在线客服获取手动配置连接方法。**因综合性价比最好并支持支付宝Alipay付款，而且通过精简版客户端连接一直比较稳定**，暂把它列在第一位。另外支付宝Alipay付款可以参考后文的教程，避免出现不能付款的问题。
 >
@@ -232,17 +232,7 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 
 ### 支付宝如何购买星辰VPN？
 
-目前由于政策原因，**支付宝基本上已经单方面取消大多数知名VPN官网的付款通道了**，至少明面上是这样。星辰VPN最近也遇到这方面的问题，在官网提交的订单在到支付宝付款页面时可能会出现问题，如果输入邮箱提交后一直在“Your order is being processed now”这个页面卡着，或是支付宝付款页面显示遇到问题，就是上面的原因。
-
-[![Strong-alipay-fail](https://www.safewebcn.com/img/星辰VPN-alipay-fail.png)](#支付宝如何购买星辰VPN)
-
-这时，打开你之前注册的邮箱，会收到星辰VPN发过来的三封Email，如下图：
-
-[![Strong-email](https://www.safewebcn.com/img/星辰VPN-email.png)](#支付宝如何购买星辰VPN)
-
-打开“Account Login”这封邮件，有用户名和临时密码，然后点击“Invoice Payment Reminder”这封邮件，打开邮件中的账单详情链接登录，输入用户名和临时密码(或者登录星辰VPN官网的用户后台，点击Billing Area->Invoices->unpaid)，可以看到订单详情以及Alipay（支付宝）付款选项，点击后进入支付宝网站就能正常付款了。
-
-[![Strong-alipay-payment](https://www.safewebcn.com/img/strong-alipay-payment.png)](#支付宝如何购买星辰VPN)
+网站内部提供了多个购买支付渠道，即使支付宝也多个渠道，建议大家支付时，使用支付宝渠道。特别是手机端，网站可以直接拉起支付宝客户端进行支付，如果使用微信支付，则会比较麻烦，可能要进行扫码支付。或者按照里面的提示进行支付，总之建议您使用支付宝。
 
 **购买后，<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">进入Strong官网</a>并点击页面右上角Help，查找 “在中国境内如何下载，安装以及使用星辰VPN”，是最新针对中国用户发布的中文版使用教程。**
 
