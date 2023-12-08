@@ -14,13 +14,13 @@
 
 另外本文中有一些关于VPN使用的详细信息和使用提示，觉得有用可以收藏，方便随时查阅，以备不时之需。**不过关于VPN科学上网、翻墙之类的信息大家自己看看就行了，不要在国内网络传播，原因你懂的！**
 
->21年10月-2023年7月信息汇总：**Ivacy、VyprVPN、蓝灯等**在国内很难使用，服务器经常被封，蓝灯的安全性也不好，大家注意避坑。NordVPN之前也是被重点打击，目前半躺平状态，表现一般，有时需手动配置，PIA之前表现不错，但是被封后目前还没有后续应对，目前国内还是无法连接，慎选。PandaVPN疑似已跑路，从11月下旬开始官网时不时无法访问、线路无法连接，客服也无人应答，应该是卷款跑路了，很多专供国人的翻墙软件大都是这个套路，注意避坑。**只有ExpressVPN和StrongVPN近几年表现一直相对比较稳定，长期可用，ExpressVPN全平台适用，使用体验也不错，遇到墙封锁之后恢复的也最快，一般一个星期内就会陆续出各平台的更新包，更新程序之后，官方推荐的线路就能恢复正常连接了，近几个月的敏感时期ExpressVPN会受到持续针对，过完这段时期就会修复；StrongVPN比较便宜，有通用版客户端和特供的简化版客户端可使用，简化版客户端适用Windows、Mac和安卓手机端**，服务器线路不时会更新，过去2年被封的次数相对较少，iPhone上使用StrongVPN遇到大封锁可能要联系客服手动配置翻墙，近来的敏感时期如果遇到连接问题，要联系客服提供国内可用线路或是备用线路。
+>21年10月-2023年7月信息汇总：**Ivacy、VyprVPN、蓝灯等**在国内很难使用，服务器经常被封，蓝灯的安全性也不好，大家注意避坑。NordVPN之前也是被重点打击，目前半躺平状态，表现一般，有时需手动配置，PIA之前表现不错，但是被封后目前还没有后续应对，目前国内还是无法连接，慎选。PandaVPN疑似已跑路，从11月下旬开始官网时不时无法访问、线路无法连接，客服也无人应答，应该是卷款跑路了，很多专供国人的翻墙软件大都是这个套路，注意避坑。**只有ExpressVPN和星辰VPN近几年表现一直相对比较稳定，长期可用，ExpressVPN全平台适用，使用体验也不错，遇到墙封锁之后恢复的也最快，一般一个星期内就会陆续出各平台的更新包，更新程序之后，官方推荐的线路就能恢复正常连接了，近几个月的敏感时期ExpressVPN会受到持续针对，过完这段时期就会修复；星辰VPN比较便宜，有通用版客户端和特供的简化版客户端可使用，简化版客户端适用Windows、Mac和安卓手机端**，服务器线路不时会更新，过去2年被封的次数相对较少，iPhone上使用星辰VPN遇到大封锁可能要联系客服手动配置翻墙，近来的敏感时期如果遇到连接问题，要联系客服提供国内可用线路或是备用线路。
 > 
 >顺便提一句，**创立时间不超过3年的VPN或翻墙软件，建议大家谨慎选择**，特别是国产的翻墙软件或者说是专供国人翻墙的软件，基本都是私人作坊式运作，不仅是安全性存疑，而且近几年卷款跑路的太多了，退款和售后是没有的。因为行业的混乱和政策风险，干一阵跑路再换马甲重新开张赚钱更容易、也更安全，这一点国外大厂VPN品牌好很多，国外大型个人VPN服务在运营的国家都是合法的，而且市面一些主要的国外VPN大厂是运营时间超过10年的老牌子，因为客户大部分是国外用户，比较认品牌和网络上的口碑，合法且能稳定盈利，至少不会跑路，一般的退款政策的时限是30天左右，这也是行业标准之一，**至于能不能在国内使用，还是要仔细甄别，尤其需要看最近2年在中国大陆的使用情况和售后客服的质量**，至少应该要看2个方面：1.最近2年在中国大陆的可使用率占全年的90%以上，要么一直能稳定连接（目前基本不存在了），要么被封后有备用线路，或是能很快恢复线路，这些都算可以。如果遭到封锁要等很长时间才能恢复，那就算了吧；2.有30天试用期全额退款条款，这一点国外大公司一般都符合，基本上都有30天内不满意退全款的条款，但是不少国产或华人开发的都是作坊式经营，不但大都不能退款，还可能随时跑路。
 
 其实直到2023年的目前为止，使用VPN加密、安全翻墙依然是最适合大多数人的最方便、安全的科学上网工具，同样也是我长期关注和测试的。目前国内还能使用的正规VPN已经被墙的差不多了，只剩下看重中国市场的几款大牌VPN还算稳定。**如果你不想多磨叽，想快速、直接选择一款VPN就能安全翻墙，我建议选择下面的2款，也是我日常使用最多的，下面把基本信息和翻墙使用体验简单介绍一下**：
 
-> - [StrongVPN](#1-strongvpn--性价比最佳)，2005年创立的老牌VPN，母公司是纳斯达克上市科技公司J2 Global.目前StrongVPN的**价格在国外大厂VPN中算很便宜的**，综合性价比高，支持支付宝付款。我已经使用了2年左右，总体来讲，在过去2年的使用时间里，StrongVPN的精简版客户端全年可用率基本能达到95%左右，服务器线路IP也会常年更新，有通用版和精简版两种客户端，通用版客户端很多时候都能用，但在敏感时期也可能被封线路，建议同时安装精简版客户端。**目前国内可以使用官网直接下载安装的通用版客户端**，另外如果大封锁时期遇到连接问题，国内的Windows、Mac和安卓用户可以同时安装特供的精简客户端，可以在官网用户后台页面右下角的“Help”在线聊天窗口、或者在用户后台页面发ticket，找客服激活针特供客户端的账号，直接说在中国使用客服就会帮你设置好，并给你最新精简版的下载地址，客服7/24在线，可以输入中文沟通（聊天系统可实时翻译），精简版客户端作为备用，这也是官方为了应对持续封锁做的备用措施。支持支付宝付款，这点比较方便，但有一些注意事项需查看后文。目前Strong官方有价格优惠活动，Strong精简版客户端服务器被屏蔽的次数和概率要小于Express，但是**Strong翻墙时的网络速度相对于ExpressVPN要慢，不过对于平时对油管1080P及以上清晰度不是刚需的用户也够用了**。StrongVPN官网域名在中国被墙（软件APP能正常使用），[国内的网络打开StrongVPN官网](#如何打开strongvpn官网)需要改电脑host文件才可以访问，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能顺利访问官网。有梯子的同学可以用梯子访问，如果用梯子不能购买，可能防欺诈系统检测到使用代理IP（可以购买不要管），就要断开梯子、使用本地网络访问，这点比较麻烦。StrongVPN的退款时限是30天，30天内随时可退订，所以有充分的时间进行测试，遇到问题可以联系在线客服，尤其是连接不上的问题，官网用户后台的右下角对话框或者发Ticket消息都行，一般的问题基本都能解决。
+> - [星辰VPN](#1-星辰VPN--性价比最佳)，2005年创立的老牌VPN，母公司是纳斯达克上市科技公司J2 Global.目前星辰VPN的**价格在国外大厂VPN中算很便宜的**，综合性价比高，支持支付宝付款。我已经使用了2年左右，总体来讲，在过去2年的使用时间里，星辰VPN的精简版客户端全年可用率基本能达到95%左右，服务器线路IP也会常年更新，有通用版和精简版两种客户端，通用版客户端很多时候都能用，但在敏感时期也可能被封线路，建议同时安装精简版客户端。**目前国内可以使用官网直接下载安装的通用版客户端**，另外如果大封锁时期遇到连接问题，国内的Windows、Mac和安卓用户可以同时安装特供的精简客户端，可以在官网用户后台页面右下角的“Help”在线聊天窗口、或者在用户后台页面发ticket，找客服激活针特供客户端的账号，直接说在中国使用客服就会帮你设置好，并给你最新精简版的下载地址，客服7/24在线，可以输入中文沟通（聊天系统可实时翻译），精简版客户端作为备用，这也是官方为了应对持续封锁做的备用措施。支持支付宝付款，这点比较方便，但有一些注意事项需查看后文。目前Strong官方有价格优惠活动，Strong精简版客户端服务器被屏蔽的次数和概率要小于Express，但是**Strong翻墙时的网络速度相对于ExpressVPN要慢，不过对于平时对油管1080P及以上清晰度不是刚需的用户也够用了**。星辰VPN官网域名在中国被墙（软件APP能正常使用），[国内的网络打开星辰VPN官网](#如何打开星辰VPN官网)需要改电脑host文件才可以访问，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能顺利访问官网。有梯子的同学可以用梯子访问，如果用梯子不能购买，可能防欺诈系统检测到使用代理IP（可以购买不要管），就要断开梯子、使用本地网络访问，这点比较麻烦。星辰VPN的退款时限是30天，30天内随时可退订，所以有充分的时间进行测试，遇到问题可以联系在线客服，尤其是连接不上的问题，官网用户后台的右下角对话框或者发Ticket消息都行，一般的问题基本都能解决。
 >
 > - <a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank">ExpressVPN（优惠活动链接）</a>，这款**在国内体验最好，网络速度在我所用过的VPN中最快**，也是我自己很喜欢的VPN产品，但在中国可访问的镜像网站无法购买，只针对客户端更新和联系客服使用，**<a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank">打开ExpressVPN官网</a>需其他梯子**。它设备支持最全面，**iOS（iPhone、iPad）和Android安卓移动端用户翻墙首选**，已经运营了14年（至2022年），国内外口碑都很好，我相信你不是第一次听到它，事实上国内外几乎所有VPN测评网站上都在C位推荐它。安全性方面它也是行业中最好的之一，官方称为“军事级别”的加密算法，保护用户的上网信息的安全。它在中国使用不能称得上非常完美，但能保障在中国每年90%以上（我的使用体验）的可用率，速度也是我所使用和测试所有的科学上网VPN中最快的。**平时建议使用Lightway协议进行连接（Automatic也可以），Lightway协议是Express官方2021年独家研发的最新VPN协议，在国内的连接成功率很高**。在国内使用建议选择官方推荐的几条线路，这几条线路经过优化，速度最快。敏感时期遇到墙升级，官方推荐的针对中国地区优化的服务器线路如果遇到连接问题，可以切换L2TP协议（电脑端）和IKEV协议连接其他节点，这个协议也有一些线路在敏感时期仍然可用，可以作为备用选择，**服务器线路的更新一般需要2-3个工作日开始陆续恢复，注意要更新最新的客户端才能恢复使用**。目前由于国内的政策原因，ExpressVPN的支付宝付款通道被支付宝方面终止了，替代的购买方式是优先选择银联卡(国内银行卡)、Paypal和含外币功能的信用卡（VISA和MasterCard等）（查看[购买ExpressVPN的方法](#如何购买expressvpn)）。ExpressVPN有30天试用期内不满意可全额退款政策，退款是按付款方式原路返回，另外有不满意的地方直接询问客服，Express的售后还是很好的。
 
@@ -43,7 +43,7 @@
 >### 5. [什么VPN适合中国用户？](#什么vpn适合中国用户)
 >### 6.[怎么下载和登录VPN客户端?](#怎么下载和登录vpn客户端)
 >### 7. [适合在中国使用的翻墙软件VPN](#适合在中国使用的翻墙软件vpn国内实测)
->>#### 7.1 [StrongVPN-性价比最好](#1-strongvpn--性价比最佳)
+>>#### 7.1 [星辰VPN-性价比最好](#1-星辰VPN--性价比最佳)
 >>#### 7.2 [ExpressVPN-网络速度最快](#2-expressvpn--速度体验最佳)
 >>#### 7.3 [NordVPN](#3-nordvpn)
 >>#### 7.4 [IVacy-不推荐国内使用](#4-ivacy)
@@ -79,7 +79,7 @@
 
 因此，不如使用某些大牌的正规VPN，起码安全性相对有保证，连接出了问题也有客服支持和线路的持续更新，更适合长期使用，当然前提是要在中国能用，目前能在国内长期使用的VPN也不太多了。
 
-按照过去2年的使用体验，我们在使用和测试的众多VPN中选出来的几款，比如ExpressVPN会针对防火长城的封锁推出推荐中国用户使用的混淆算法的服务器，不仅降低了服务器被屏蔽的概率，而且服务器被墙之后（2-3个月可能发生一次），官方也会在最短时间内推出更新，客户端APP更新之后就可以继续翻墙了。其中以StrongVPN和ExpressVPN反应最快，2-3个工作日左右就能收到客户端上版本或是线路更新，NordVPN较慢一些，不过你在这个时间段，可以通过官网后台或者咨询在线客服获得服务器的信息，然后手动配置VPN，教程官网上都有，而且根据我之前的使用经验，手动配置的VPN会比客户端直连的稳定性要好很多。这里还有个**ExpressVPN使用小提示**，万一在敏感时期VPN服务器暂时被墙之后，改变客户端默认的连接协议（一般是`Automatic`），改为L2TP-IPSec或IKEV-2协议然后尝试连接，你会发现除了推荐节点外，其实还有些节点可以正常连接使用。
+按照过去2年的使用体验，我们在使用和测试的众多VPN中选出来的几款，比如ExpressVPN会针对防火长城的封锁推出推荐中国用户使用的混淆算法的服务器，不仅降低了服务器被屏蔽的概率，而且服务器被墙之后（2-3个月可能发生一次），官方也会在最短时间内推出更新，客户端APP更新之后就可以继续翻墙了。其中以星辰VPN和ExpressVPN反应最快，2-3个工作日左右就能收到客户端上版本或是线路更新，NordVPN较慢一些，不过你在这个时间段，可以通过官网后台或者咨询在线客服获得服务器的信息，然后手动配置VPN，教程官网上都有，而且根据我之前的使用经验，手动配置的VPN会比客户端直连的稳定性要好很多。这里还有个**ExpressVPN使用小提示**，万一在敏感时期VPN服务器暂时被墙之后，改变客户端默认的连接协议（一般是`Automatic`），改为L2TP-IPSec或IKEV-2协议然后尝试连接，你会发现除了推荐节点外，其实还有些节点可以正常连接使用。
 
 所以说选择这些大厂出品且重视中国市场的正规VPN服务，保持最新版客户端基本上能确保全年95%的时间能正常使用，当然在国内的敏感时期节点的速度可能会比平时慢一些，所有翻墙软件都无法避免，用过的自然懂。
 
@@ -101,7 +101,7 @@
 
 没人能预测这种黑天鹅事件什么时候会发生，一般是国际上的重大事件，比如新冠肺炎、俄乌冲突等。这种事情不会经常发生，如果在某个时间发现很多科学上网软件无法翻墙了，那么一定是有什么事情发生。也许我们不知道是什么，最大可能也许是墙的例行升级，其他可能是突发事件，尤其是西方媒体新一轮的舆论攻势，或者哪里又有大事要发生，毕竟这几年我们见证了太多历史。这时候只能“等”，一般几天过后网络就会自动恢复，我们中国人又继续我们各自的生活：加班，赚钱，吃吃吃。
 
->最近国内网络管制升级，各种翻墙方法都出现不同程度连接不稳定，速度变慢等情况，国内论坛上VPS的ip被封的讨论也多了起来，但ExpressVPN和StrongVPN精简特供版客户端等仍然处于可用状态，详细信息可参见下方[VPN推荐指南](#适合在中国使用的翻墙软件vpn国内实测)。
+>最近国内网络管制升级，各种翻墙方法都出现不同程度连接不稳定，速度变慢等情况，国内论坛上VPS的ip被封的讨论也多了起来，但ExpressVPN和星辰VPN精简特供版客户端等仍然处于可用状态，详细信息可参见下方[VPN推荐指南](#适合在中国使用的翻墙软件vpn国内实测)。
 
 ## 买VPS自建翻墙服务器？
 
@@ -149,7 +149,7 @@
 
 比如ExpressVPN直接在客户端登录页面填入注册码就行了，最为方便，注册码在登录用户后台页面后一眼就能找到；
 
-StrongVPN、Nord是下载安装客户端后，输入注册时的邮箱密码登陆就行了。
+星辰VPN、Nord是下载安装客户端后，输入注册时的邮箱密码登陆就行了。
 
 ### 安卓Android手机客户端
 
@@ -178,29 +178,29 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 
 >注意：因为防火长城的不断迭代更新，过去几年很多VPN商家接二连三遭受屏蔽或跑路。下文的几个VPN，都经过我长期的使用和测试，目前的表现有好有坏，推荐使用对防火长城封锁的应对最快，能比较快速地进行软件客户端和服务器节点的更新，能满足国内用户长期使用的需求。另外，我会在文中就每款VPN最近的使用体验进行总结，该文章会不断更新，请收藏本页面以便以后查看。
 
-## 1.<a rel="nofollow noopener" href="#如何打开strongvpn官网" target="_blank"> StrongVPN – 性价比最佳</a>
+## 1.<a rel="nofollow noopener" href="#如何打开星辰VPN官网" target="_blank"> 星辰VPN – 性价比最佳</a>
 
-[![StrongVPN](https://www.safewebcn.com/img/strong-logo.png)](#1-strongvpn--性价比最佳)
+[![星辰VPN](https://www.safewebcn.com/img/strong-logo.png)](#1-星辰VPN--性价比最佳)
 
->2023年使用，确认可用，但最近2个月太敏感，封锁的VPN和其他科学上网太多，如果突然遇到线路的连接问题，联系客服提供中国大陆的可用线路或是备用线路。这款我使用了3年，可用节点中有些节点的网络传输速度不错，有些节点的速度就一般，要根据自己的网络环境测试。**目前StrongVPN的套餐价位的性价比应该是大牌VPN里面最好的**，有优惠码可使用。**通用版客户端直接在官网用户后台下载安装即可，目前在国内能使用**。另外，Windows、Mac和Android设备用户建议在官网用户页面的右下方的“Help”聊天框找在线客服(Technical Support)获取特供的精简客户端V1 app，直接说在中国使用就行了，通用版客户端很多时候也能用，可以把精简版客户端作为备用选择。这也是Strong官方尽量避免被墙的策略，官方的标准客户端版本在敏感时期可能会遇到登录或连接问题，需等待版本更新，另外**如果遇到大封锁，联系客服获取可用的服务器线路和推荐协议**。另外由于iOS系统的限制，客户端没有备用的iOS的特供版本，只有通用版本，大部分时候都能连，敏感时期可以联系在线客服获取手动配置连接方法。**因综合性价比最好并支持支付宝Alipay付款，而且通过精简版客户端连接一直比较稳定**，暂把它列在第一位。另外支付宝Alipay付款可以参考后文的教程，避免出现不能付款的问题。
+>2023年使用，确认可用，但最近2个月太敏感，封锁的VPN和其他科学上网太多，如果突然遇到线路的连接问题，联系客服提供中国大陆的可用线路或是备用线路。这款我使用了3年，可用节点中有些节点的网络传输速度不错，有些节点的速度就一般，要根据自己的网络环境测试。**目前星辰VPN的套餐价位的性价比应该是大牌VPN里面最好的**，有优惠码可使用。**通用版客户端直接在官网用户后台下载安装即可，目前在国内能使用**。另外，Windows、Mac和Android设备用户建议在官网用户页面的右下方的“Help”聊天框找在线客服(Technical Support)获取特供的精简客户端V1 app，直接说在中国使用就行了，通用版客户端很多时候也能用，可以把精简版客户端作为备用选择。这也是Strong官方尽量避免被墙的策略，官方的标准客户端版本在敏感时期可能会遇到登录或连接问题，需等待版本更新，另外**如果遇到大封锁，联系客服获取可用的服务器线路和推荐协议**。另外由于iOS系统的限制，客户端没有备用的iOS的特供版本，只有通用版本，大部分时候都能连，敏感时期可以联系在线客服获取手动配置连接方法。**因综合性价比最好并支持支付宝Alipay付款，而且通过精简版客户端连接一直比较稳定**，暂把它列在第一位。另外支付宝Alipay付款可以参考后文的教程，避免出现不能付款的问题。
 >
 >**最新提醒**：目前国内能使用V2版本的客户端，也就是官网上直接下载的通用版客户端，协议选择OpenVPN或者IKEV2，Win/MacOS/Android/iOS系统客户端都能使用，如有任何问题直接在官网用户后台页面的在线窗口询问客服。
 
-StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国家的59个城市拥有950+个VPN服务器，以及近60000个IP地址，前文说过，大量的IP地址资源对于墙的封锁是最有效的办法，而且不论官方宣传的服务器IP数量多少，StrongVPN近两年在国内的上网表现比NordVPN、Pure、IVacy、Vypr等好多了，连接成功率很高，**可能因为混淆算法的缘故，服务器线路被屏蔽的次数和概率要小于其他这些VPN**。但是也可能遇到封锁，毕竟几乎所有的翻墙软件都会遇到这个问题，**大封锁时期如果遇到连接不上的问题，直接联系客服获取当前可用的服务器线路和使用客服推荐的临时方案**。
+星辰VPN是一家美国的老牌VPN服务商，成立于2005年，在35个国家的59个城市拥有950+个VPN服务器，以及近60000个IP地址，前文说过，大量的IP地址资源对于墙的封锁是最有效的办法，而且不论官方宣传的服务器IP数量多少，星辰VPN近两年在国内的上网表现比NordVPN、Pure、IVacy、Vypr等好多了，连接成功率很高，**可能因为混淆算法的缘故，服务器线路被屏蔽的次数和概率要小于其他这些VPN**。但是也可能遇到封锁，毕竟几乎所有的翻墙软件都会遇到这个问题，**大封锁时期如果遇到连接不上的问题，直接联系客服获取当前可用的服务器线路和使用客服推荐的临时方案**。
 
-有读者有时会问StrongVPN怎么不能连接，其实所有翻墙软件在敏感时期都可能会出现连接问题，国内用户建议把通用版客户端和精简版客户端遇都安装上作为备用，如何下载和使用查看后文。
+有读者有时会问星辰VPN怎么不能连接，其实所有翻墙软件在敏感时期都可能会出现连接问题，国内用户建议把通用版客户端和精简版客户端遇都安装上作为备用，如何下载和使用查看后文。
 
-### StrongVPN在中国表现怎么样？
+### 星辰VPN在中国表现怎么样？
 
-StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Global公司NetProtect项目旗下的品牌，J2 Global是纳斯达克上市公司（目前改名为Ziff Davis集团，股票代码：ZD），公司主营业务主要是为个人和企业提供通信、软件和数字媒体服务，技术和资金实力十分雄厚。目前进入VPN领域已有16年，近几年开始也开始重视开发中国市场，他家售后服务很不错，它也和ExpressVPN一样，为应对墙的持续封锁，发布了一个在中国使用StrongVPN的并实时更新的帖子，**给在中国境内的用户提供最新的使用信息和公告，进入<a rel="nofollow noopener" href="https://tg1.reami.us/#/register?code=nRx0UI5X" target="_blank">StrongVPN官网</a>，点击右上角Help，查找 “在中国境内如何下载，安装以及使用StrongVPN”**。其实据我了解，这款VPN在过去几年在中国一直可用，只是由于官网被墙，在国人用户群体中略显小众，使用者是以在中国的老外居多。**技术客服很给力（官网登录账号后，点击右下角的“Help”帮助聊天框，选择Technical Support），过去的几次大封锁期间，我都是通过技术客服给我的备用翻墙方案，备用的线路使用也一直比较稳定**。
+星辰VPN同样也是全球排名前列的大牌服务商，属于美国J2 Global公司NetProtect项目旗下的品牌，J2 Global是纳斯达克上市公司（目前改名为Ziff Davis集团，股票代码：ZD），公司主营业务主要是为个人和企业提供通信、软件和数字媒体服务，技术和资金实力十分雄厚。目前进入VPN领域已有16年，近几年开始也开始重视开发中国市场，他家售后服务很不错，它也和ExpressVPN一样，为应对墙的持续封锁，发布了一个在中国使用星辰VPN的并实时更新的帖子，**给在中国境内的用户提供最新的使用信息和公告，进入<a rel="nofollow noopener" href="https://tg1.reami.us/#/register?code=nRx0UI5X" target="_blank">星辰VPN官网</a>，点击右上角Help，查找 “在中国境内如何下载，安装以及使用星辰VPN”**。其实据我了解，这款VPN在过去几年在中国一直可用，只是由于官网被墙，在国人用户群体中略显小众，使用者是以在中国的老外居多。**技术客服很给力（官网登录账号后，点击右下角的“Help”帮助聊天框，选择Technical Support），过去的几次大封锁期间，我都是通过技术客服给我的备用翻墙方案，备用的线路使用也一直比较稳定**。
 
-**最新提醒**：目前国内能使用V2版本的客户端，也就是官网的用户后台“StrongVPN Client”直接下载的通用版客户端，协议选择OpenVPN或者IKEV2，Win/MacOS/Android/iOS系统客户端都能使用，如有任何问题直接在官网的Support页面的在线窗口询问客服或是发Ticket询问。
+**最新提醒**：目前国内能使用V2版本的客户端，也就是官网的用户后台“星辰VPN Client”直接下载的通用版客户端，协议选择OpenVPN或者IKEV2，Win/MacOS/Android/iOS系统客户端都能使用，如有任何问题直接在官网的Support页面的在线窗口询问客服或是发Ticket询问。
 
-### 如何打开StrongVPN官网？
+### 如何打开星辰VPN官网？
 
 >下载安装Strong的客户端和使用请详细阅读本文或者官网的提示文章，避免后续使用出现问题。
 
-有梯子的同学直接可访问<a rel="nofollow noopener" href="https://tg1.reami.us/#/register?code=nRx0UI5X" target="_blank">StrongVPN官网</a>，但如果在套餐下单时页面出现“We detected that you are using a VPN or Proxy service...”而不能购买（可以顺利下单的话不用管），说明StrongVPN反欺诈系统检测到你是用代理IP访问的（国外存在代理IP盗刷信用卡），要断开梯子使用本地网络访问官网，方法如下文。
+有梯子的同学直接可访问<a rel="nofollow noopener" href="https://tg1.reami.us/#/register?code=nRx0UI5X" target="_blank">星辰VPN官网</a>，但如果在套餐下单时页面出现“We detected that you are using a VPN or Proxy service...”而不能购买（可以顺利下单的话不用管），说明星辰VPN反欺诈系统检测到你是用代理IP访问的（国外存在代理IP盗刷信用卡），要断开梯子使用本地网络访问官网，方法如下文。
 
 **国内本地网络访问方法**：Strong官网在中国被墙，国内打开官网需要改电脑Host文件，因为其官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。
 
@@ -210,7 +210,7 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 2.Windows用户将下载的hosts文件移动到文件夹 `C:\Windows\System32\drivers\etc` （Mac的文件夹是 `/etc/hosts`），建议备份系统自带的原始hosts文件到其他地方。如果本地hosts文件之前自己修改过，用记事本打开下载的hosts文件，把里面的信息全部复制到原来的hosts文件中保存就行了。
 
-3.完成之后**清空浏览器缓存、刷新浏览器，或用另一浏览器访问本页面**，然后<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank"> 获取StrongVPN独家优惠</a>。
+3.完成之后**清空浏览器缓存、刷新浏览器，或用另一浏览器访问本页面**，然后<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank"> 获取星辰VPN独家优惠</a>。
 
 完成之后，就可以正常访问官网了。
 
@@ -230,27 +230,27 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 如果对Host文件不懂，请<a rel="nofollow noopener" href="https://vpncn.github.io/image/%E5%A6%82%E4%BD%95%E6%94%B9host%E6%96%87%E4%BB%B6" target="_blank"> 查看这篇文章</a>。
 
-### 支付宝如何购买StrongVPN？
+### 支付宝如何购买星辰VPN？
 
-目前由于政策原因，**支付宝基本上已经单方面取消大多数知名VPN官网的付款通道了**，至少明面上是这样。StrongVPN最近也遇到这方面的问题，在官网提交的订单在到支付宝付款页面时可能会出现问题，如果输入邮箱提交后一直在“Your order is being processed now”这个页面卡着，或是支付宝付款页面显示遇到问题，就是上面的原因。
+目前由于政策原因，**支付宝基本上已经单方面取消大多数知名VPN官网的付款通道了**，至少明面上是这样。星辰VPN最近也遇到这方面的问题，在官网提交的订单在到支付宝付款页面时可能会出现问题，如果输入邮箱提交后一直在“Your order is being processed now”这个页面卡着，或是支付宝付款页面显示遇到问题，就是上面的原因。
 
-[![Strong-alipay-fail](https://www.safewebcn.com/img/strongvpn-alipay-fail.png)](#支付宝如何购买strongvpn)
+[![Strong-alipay-fail](https://www.safewebcn.com/img/星辰VPN-alipay-fail.png)](#支付宝如何购买星辰VPN)
 
-这时，打开你之前注册的邮箱，会收到StrongVPN发过来的三封Email，如下图：
+这时，打开你之前注册的邮箱，会收到星辰VPN发过来的三封Email，如下图：
 
-[![Strong-email](https://www.safewebcn.com/img/strongvpn-email.png)](#支付宝如何购买strongvpn)
+[![Strong-email](https://www.safewebcn.com/img/星辰VPN-email.png)](#支付宝如何购买星辰VPN)
 
-打开“Account Login”这封邮件，有用户名和临时密码，然后点击“Invoice Payment Reminder”这封邮件，打开邮件中的账单详情链接登录，输入用户名和临时密码(或者登录StrongVPN官网的用户后台，点击Billing Area->Invoices->unpaid)，可以看到订单详情以及Alipay（支付宝）付款选项，点击后进入支付宝网站就能正常付款了。
+打开“Account Login”这封邮件，有用户名和临时密码，然后点击“Invoice Payment Reminder”这封邮件，打开邮件中的账单详情链接登录，输入用户名和临时密码(或者登录星辰VPN官网的用户后台，点击Billing Area->Invoices->unpaid)，可以看到订单详情以及Alipay（支付宝）付款选项，点击后进入支付宝网站就能正常付款了。
 
-[![Strong-alipay-payment](https://www.safewebcn.com/img/strong-alipay-payment.png)](#支付宝如何购买strongvpn)
+[![Strong-alipay-payment](https://www.safewebcn.com/img/strong-alipay-payment.png)](#支付宝如何购买星辰VPN)
 
-**购买后，<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">进入Strong官网</a>并点击页面右上角Help，查找 “在中国境内如何下载，安装以及使用StrongVPN”，是最新针对中国用户发布的中文版使用教程。**
+**购买后，<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">进入Strong官网</a>并点击页面右上角Help，查找 “在中国境内如何下载，安装以及使用星辰VPN”，是最新针对中国用户发布的中文版使用教程。**
 
 如何购买和使用请看下文，尤其是使用的时候有几个需要注意的事项。
 
-[![Strong-device](https://www.safewebcn.com/img/strong-home.png)](#1-strongvpn--性价比最佳)
+[![Strong-device](https://www.safewebcn.com/img/strong-home.png)](#1-星辰VPN--性价比最佳)
 
-这款VPN是我在19年初开始使用，总体来讲，在过去几年的使用时间里，全年可用率能达到95%以上，服务器经常会更新，每次登陆客户端都会自动检测服务器更新。**在敏感时期如果遇到连接问题，国内的Windows、Mac和安卓手机用户可以找在线客服获取特供的StrongVPN精简版客户端V1 app，登录和连接更为顺畅，在敏感时期相对更加稳定**。iPhone手机APP版本的登录和使用直接使用App Store下载安装即可，但标准版客户端的使用肯定不如特供的精简版稳定，iPhone上使用如有连接问题要找客服获取备份的服务器地址进行手动配置。
+这款VPN是我在19年初开始使用，总体来讲，在过去几年的使用时间里，全年可用率能达到95%以上，服务器经常会更新，每次登陆客户端都会自动检测服务器更新。**在敏感时期如果遇到连接问题，国内的Windows、Mac和安卓手机用户可以找在线客服获取特供的星辰VPN精简版客户端V1 app，登录和连接更为顺畅，在敏感时期相对更加稳定**。iPhone手机APP版本的登录和使用直接使用App Store下载安装即可，但标准版客户端的使用肯定不如特供的精简版稳定，iPhone上使用如有连接问题要找客服获取备份的服务器地址进行手动配置。
 
 使用的时候直接通过APP一键连接就行了，不用自己手动设置，敏感时期如果遇到封锁，可在官网右下角的在线聊天框找客服获取连接方案。能连接的节点比ExpressVPN多一些，建立连接所需的时间也比ExpressVPN略快，但是网络速度比ExpressVPN慢，不过打开网页和看Youtube高清视频也基本够用，无论是电脑还是手机（包括iPhone和安卓）APP客户端的使用体验和稳定性在我使用的大厂VPN软件中目前仅次于ExpressVPN，**对于在乎性价比的人来说，是除[ExpressVPN](#2-expressvpn--速度体验最佳)外的最佳选择**。
 
@@ -258,67 +258,67 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 如果安装或者连接遇到问题，可以在官网用户页面的右下角的“Help”聊天框，选择Technical Support（技术支持），咨询客服相关问题，我有几次遇到连接问题都是找技术支持解决的。**连接协议建议选择`OpenVPN TCP`**，有UDP和TCP两种协议，官方推荐使用TCP协议并开启Scramble混淆选项，我自己一般也习惯使用TCP，感觉更好连接一些，**不过在敏感时期，如果遇到线路被封，客服会提供临时的连接方案和协议，例如SSTP/L2TP等协议的线路**。
 
-### 如何获取StrongVPN？
+### 如何获取星辰VPN？
 
-1.进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">StrongVPN官网</a>（右键打开），然后点击“Join Now”按钮，进入选择套餐页面：
+1.进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">星辰VPN官网</a>（右键打开），然后点击“Join Now”按钮，进入选择套餐页面：
 
-[![Strong-device](https://www.safewebcn.com/img/StrongVPN-price-table-2023-07.png)](#如何获取strongvpn)
+[![Strong-device](https://www.safewebcn.com/img/星辰VPN-price-table-2023-07.png)](#如何获取星辰VPN)
 
 付款方式支持支付宝Alipay、银联卡、信用卡和Paypal等，**目前有特价活动可以优惠20%以上**，优惠码是`TAKEOFF20`、`NEWSTRONG`或是`WELCOMESAFER` ，进入官网后，拉到页面最下方，在“Interact”栏点击“Coupons“也能看到（单月套餐使用这个更划算），**如果活动价格折扣大于这个优惠折扣，系统默认以最大折扣的活动价为准**，套餐页面的链接中的cpn后面的参数可以改为优惠码，重新进入链接后价格会重新计算。另外支付宝支付的话只能买一个月或一年，后续续费的话要手动付款续费，不想续费不用管就行了；信用卡和Paypal支付的话是自动续费，但如果不想续费，可以在使用期限到之前随时取消续费。
 
 接着输入Email注册，付款之后系统会自动分配初始登录密码，发送到注册的Email邮箱。
 
-在支付之后，查看邮箱收到的初始登录密码，<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">进入StrongVPN官网</a>登陆账号，联系在线客服下载精简版客户端，就可以安装使用了。
+在支付之后，查看邮箱收到的初始登录密码，<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">进入星辰VPN官网</a>登陆账号，联系在线客服下载精简版客户端，就可以安装使用了。
 
 支付过程中可能会有订单处理遇到问题（如下图）或者套餐页面直接提交到支付宝付款显示“参数遇到问题”，很好解决，和下文一样，**需要进入注册提交的邮箱查收包含帐号密码的邮件，并登录用户后台的“Billing Area”板块，确认付款订单就行了**。
 
-[![Strong-problem](https://www.safewebcn.com/img/Strong-problem-min.png)](#如何获取strongvpn)
+[![Strong-problem](https://www.safewebcn.com/img/Strong-problem-min.png)](#如何获取星辰VPN)
 
 **如果后续不能登录或使用，查看是不是支付过程出现了问题导致扣款失败**，需要<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">登录官网用户后台</a>确认支付，点击“Billing Area”：
 
-[![Strong-billing](https://www.safewebcn.com/img/strongvpn-billing-min.png)](#如何获取strongvpn)
+[![Strong-billing](https://www.safewebcn.com/img/星辰VPN-billing-min.png)](#如何获取星辰VPN)
 
 然后点击最右边的Invoice，
 
-[![Strong-Invoice](https://www.safewebcn.com/img/strongvpn-pay-invoice-min.png)](#如何获取strongvpn)
+[![Strong-Invoice](https://www.safewebcn.com/img/星辰VPN-pay-invoice-min.png)](#如何获取星辰VPN)
 
 看到自己选择的套餐是否显示为unpaid，点击unpaid，
 
-[![Strong-unpaid](https://www.safewebcn.com/img/strongvpn-unpaid-min.png)](#如何获取strongvpn)
+[![Strong-unpaid](https://www.safewebcn.com/img/星辰VPN-unpaid-min.png)](#如何获取星辰VPN)
 
 然后在打开的页面选择付款方式，并进行支付，以支付宝为例：
 
-[![Strong-alipay](https://www.safewebcn.com/img/strongvpn-alipay-min.png)](#如何获取strongvpn)
+[![Strong-alipay](https://www.safewebcn.com/img/星辰VPN-alipay-min.png)](#如何获取星辰VPN)
 
 支付完成页面：
 
-[![Strong-paid](https://www.safewebcn.com/img/strongvpn-paid-min.png)](#如何获取strongvpn)
+[![Strong-paid](https://www.safewebcn.com/img/星辰VPN-paid-min.png)](#如何获取星辰VPN)
 
 **关于续费问题**：支付宝付款不用管，付款是一次性的，不会自动续费和扣款，要自己手动续费购买。Paypal和美元信用卡付款的套餐时间到期前都可以手动取消自动续费，需要时再自己续费。一般在使用期限内直接续费是原价，可以在使用期限过期后，等待一个星期左右，邮箱会收到续费优惠的链接，这时候续费省不少。
 
-### StrongVPN如何使用？
+### 星辰VPN如何使用？
 
-登录进官网用户后台界面后，从“StrongVPN Clients”点击可以下载通用版客户端APP，**如果在敏感时期遇到连接问题，到时可以安装特供的精简版客户端作为备用**，可以直接找在线客服获取，直接说在中国使用就会帮你设置好账户。
+登录进官网用户后台界面后，从“星辰VPN Clients”点击可以下载通用版客户端APP，**如果在敏感时期遇到连接问题，到时可以安装特供的精简版客户端作为备用**，可以直接找在线客服获取，直接说在中国使用就会帮你设置好账户。
 
-[![Strong客户端](https://www.safewebcn.com/img/strongvpn-client-min.png)](#strongvpn如何使用)
+[![Strong客户端](https://www.safewebcn.com/img/星辰VPN-client-min.png)](#星辰VPN如何使用)
 
 ### 使用建议
 
 **2023年最新提醒**：目前国内能使用V2版本的客户端，也就是上图中直接下载的通用版客户端，协议选择OpenVPN或者IKEV2，Win/MacOS/Android/iOS系统客户端都能使用，如有任何问题直接在官网的Support页面的在线窗口询问客服。
 
-**除了使用通用版客户端，遇到连接问题时，Windows、Mac电脑用户和安卓手机用户可以同时下载StrongVPN的精简版客户端V1 app（<a rel="nofollow noopener" href="https://www.safewebcn.com/download/strongwin-1.65.exe" target="_blank">Windows备用下载地址</a>）**，作为备用选择。最新版请咨询官网右下角客服获取，直接说在中国使用StrongVPN客服就懂了，会帮你激活账号和给你最新版精简版客户端的下载地址。安装专用精简版之前，可能需要把官网的标准版先装上，因为有读者反映Win10直接安装精简版出现问题，要先安装标准版。也可以查看官网关于程序安装所需组件的文章，进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">Strong官网</a>，点击右上角help，搜索“.NET Framework”的文章。如果仍有问题，**可以在官网用户页面右下角的“Help”在线聊天框->Get in touch->Live Chat，选择Technical Support（技术支持）提出你的问题，也有中文客服在线，可以在聊天窗口使用中文沟通**。
+**除了使用通用版客户端，遇到连接问题时，Windows、Mac电脑用户和安卓手机用户可以同时下载星辰VPN的精简版客户端V1 app（<a rel="nofollow noopener" href="https://www.safewebcn.com/download/strongwin-1.65.exe" target="_blank">Windows备用下载地址</a>）**，作为备用选择。最新版请咨询官网右下角客服获取，直接说在中国使用星辰VPN客服就懂了，会帮你激活账号和给你最新版精简版客户端的下载地址。安装专用精简版之前，可能需要把官网的标准版先装上，因为有读者反映Win10直接安装精简版出现问题，要先安装标准版。也可以查看官网关于程序安装所需组件的文章，进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">Strong官网</a>，点击右上角help，搜索“.NET Framework”的文章。如果仍有问题，**可以在官网用户页面右下角的“Help”在线聊天框->Get in touch->Live Chat，选择Technical Support（技术支持）提出你的问题，也有中文客服在线，可以在聊天窗口使用中文沟通**。
 
 **联系客服方式：**
 
 1.联系在线客服，这种方式最快。官网用户页面右下角的“Help”在线聊天框->Get in touch->Live Chat，或者用户后台页面的Support tickets->Submit new ticket，填写信息提交：Please enable V1 account for me because I am in China;
 
-2.使用注册StrongVPN的邮箱发送邮件到billing@strongvpn.com ，邮件内容 ：Please enable V1 account for me because I am in China(激活针对V1精简版客户端的账号)，一般一个工作日内激活。
+2.使用注册星辰VPN的邮箱发送邮件到billing@星辰VPN.com ，邮件内容 ：Please enable V1 account for me because I am in China(激活针对V1精简版客户端的账号)，一般一个工作日内激活。
 
->Mac精简版<a rel="nofollow noopener" href="https://mirror3.reliablehosting.com/mac/StrongVPN_Mac-latest.dmg" target="_blank">V1 app下载地址</a>，使用前联系客服，说一下在中国使用，他会帮你设置账号，不然默认账号可能登录后没有OpenVPN协议的选项或者不能登录这个客户端。
+>Mac精简版<a rel="nofollow noopener" href="https://mirror3.reliablehosting.com/mac/星辰VPN_Mac-latest.dmg" target="_blank">V1 app下载地址</a>，使用前联系客服，说一下在中国使用，他会帮你设置账号，不然默认账号可能登录后没有OpenVPN协议的选项或者不能登录这个客户端。
 >
->**重要提示**：有部分读者反映购买StrongVPN后，在StrongVPN特供的精简版V1 App中无法选择OpenVPN协议或是登陆出现问题，就此我咨询了客服，如果出现这种情况，需要在官网Support页面右下角的“Help”聊天框选择技术客服"Technical Support"，联系客服说在中国使用就行了，客服会马上帮你开通OpenVPN account；或者在用户后台发个ticket：点击“Support Ticket”，点击“Submit new ticket”，提交开通OpenVPN account，一般很快就会开通。下图是本文读者反馈使用StrongVPN的一些经验（感谢这位读者的反馈^-^），如果使用过程中出现问题可以参考：
+>**重要提示**：有部分读者反映购买星辰VPN后，在星辰VPN特供的精简版V1 App中无法选择OpenVPN协议或是登陆出现问题，就此我咨询了客服，如果出现这种情况，需要在官网Support页面右下角的“Help”聊天框选择技术客服"Technical Support"，联系客服说在中国使用就行了，客服会马上帮你开通OpenVPN account；或者在用户后台发个ticket：点击“Support Ticket”，点击“Submit new ticket”，提交开通OpenVPN account，一般很快就会开通。下图是本文读者反馈使用星辰VPN的一些经验（感谢这位读者的反馈^-^），如果使用过程中出现问题可以参考：
 
-[![Strong-feedback](https://www.safewebcn.com/img/strong-feedback-1.png)](#1-strongvpn--性价比最佳)
+[![Strong-feedback](https://www.safewebcn.com/img/strong-feedback-1.png)](#1-星辰VPN--性价比最佳)
 
 如果英文不熟悉，直接选择下面的任一句话发送就行了:
 
@@ -330,11 +330,11 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 **在中国能用的节点选择具体的方法，可以查看[Strong线路选择](#strong线路选择)**。
 
-StrongVPN特供精简版客户端V1 App（**作为备用**）：
+星辰VPN特供精简版客户端V1 App（**作为备用**）：
 
-[![Strong客户端精简版](https://www.safewebcn.com/img/strongvpn-china-client-min.png)](#使用建议)
+[![Strong客户端精简版](https://www.safewebcn.com/img/星辰VPN-china-client-min.png)](#使用建议)
 
-StrongVPN Windows标准版客户端：
+星辰VPN Windows标准版客户端：
 
 [![Strong客户端标准版](https://www.safewebcn.com/img/strong-connect.png)](#使用建议)
 
@@ -344,11 +344,11 @@ StrongVPN Windows标准版客户端：
 
 （**WireGuard协议只有官网下载安装的标准版客户端提供，但是根据部分读者反映，WireGuard协议在国内使用不稳定，会出现显示连接却上不了网的情况，比较鸡肋，有时候不如使用OpenVPN协议稳定**。）
 
-StrongVPN支持WireGuard协议，以iPhone为例，先打开StrongVPN，然后点击setting，在Protocol选择WireGuard，然后回到服务器选择线路连接，点击connect，等待1-3秒就能连上，如果没有反应，打开iPhone的系统设置，点击VPN，选择“StrongVPN WireGuard Configuration”（如下图）：
+星辰VPN支持WireGuard协议，以iPhone为例，先打开星辰VPN，然后点击setting，在Protocol选择WireGuard，然后回到服务器选择线路连接，点击connect，等待1-3秒就能连上，如果没有反应，打开iPhone的系统设置，点击VPN，选择“星辰VPN WireGuard Configuration”（如下图）：
 
 [![Strong WireGuard](https://www.safewebcn.com/img/strong-wireguard-min.png)](#使用wireguard协议)
 
-点击按钮，一般很快就能建立连接（如下图），WireGuard协议在手机翻墙时比较方便，目前大多数VPN产品还还没有加入WireGuard协议，这是StrongVPN的优势之一。
+点击按钮，一般很快就能建立连接（如下图），WireGuard协议在手机翻墙时比较方便，目前大多数VPN产品还还没有加入WireGuard协议，这是星辰VPN的优势之一。
 
 [![Strong WireGuard](https://www.safewebcn.com/img/strong-wireguard-2-min.png)](#使用wireguard协议)
 
@@ -361,19 +361,19 @@ StrongVPN支持WireGuard协议，以iPhone为例，先打开StrongVPN，然后�
 
 日本东京节点测速：
 
-[![Strong客户端精简版](https://www.safewebcn.com/img/StrongVPN-speedtest-tokyo-2021-11.png)](#strong速度测试)
+[![Strong客户端精简版](https://www.safewebcn.com/img/星辰VPN-speedtest-tokyo-2021-11.png)](#strong速度测试)
 
 韩国首尔节点测速：
 
 [![Strong客户端精简版](https://www.safewebcn.com/img/strong-seoul-speedtest-2021-11.png)](#strong速度测试)
 
-这是最近我使用时的测试结果，测试平台为SpeedTest网页测速，上面的速度测试截图可以看到，连接Tokyo的节点，ping值85ms，下载速度为11Mbps，上行速度为20.58Mbps；Seoul节点ping值69ms，下载速度为26.03Mbps，上行速度为20.23Mbps。浏览网页、看视频够用，但看清晰度为2K及以上的视频会有点吃力，这点不如[ExpressVPN](#2-expressvpn--速度体验最佳)，另外，实际使用时的网速和上网时段、网络环境都有很大的关系。StrongVPN速度较快的节点选择可以查看：[线路选择](#strong线路选择)。
+这是最近我使用时的测试结果，测试平台为SpeedTest网页测速，上面的速度测试截图可以看到，连接Tokyo的节点，ping值85ms，下载速度为11Mbps，上行速度为20.58Mbps；Seoul节点ping值69ms，下载速度为26.03Mbps，上行速度为20.23Mbps。浏览网页、看视频够用，但看清晰度为2K及以上的视频会有点吃力，这点不如[ExpressVPN](#2-expressvpn--速度体验最佳)，另外，实际使用时的网速和上网时段、网络环境都有很大的关系。星辰VPN速度较快的节点选择可以查看：[线路选择](#strong线路选择)。
 
 **官方建议**：Change your VPN connection protocol If changing server did not help you get connected, try changing your protocol. We recommend using OpenVPN via TCP configuration for customers in China. If fails, then try the aforementioned protocols with Scramble feature enabled.
 
 官方的意思也就是说：“**在中国使用OpenVPN的TCP协议，建议开启Scramble功能选项**。”Scramble功能应该是官方的魔改OpenVPN协议，二次开发加入了混淆算法，不像标准的OpenVPN协议流量容易被检测到，在敏感时期更容易连接上。**开启Scramble功能方法**：在精简版客户端的界面点击Advanced，然后在弹出来的窗口点击options选项，Scramble选择Obfuscate，然后点击Apply，等账号同步完成就好了。
 
-[![Strong客户端精简版设置](https://www.safewebcn.com/img/strongvpn客户端设置.png)](#strong速度测试)
+[![Strong客户端精简版设置](https://www.safewebcn.com/img/星辰VPN客户端设置.png)](#strong速度测试)
 
 **在大多数情况下选择OpenVPN TCP协议，我测试在电信和移动网络中，使用TCP协议，连接相对成功率和速度都不错**，当然你也可以根据你当地网络环境自己测试，**我推荐优先连接下面这些地区，具体的服务器选择方法请参考：[Strong国内能连的服务器选择方法](#strong线路选择)**。
 
@@ -387,17 +387,17 @@ StrongVPN支持WireGuard协议，以iPhone为例，先打开StrongVPN，然后�
 
 ### Strong线路选择
 
-登录官网用户后台，然后点击'VPN Accounts'，在下拉框里面点击'Legacy VPN Accounts Summary'，查看下面的“Servers available”，就可以查看各个节点和当前使用人数。在不同的网络运营商下，连接同一节点的速度也可能不同，每个节点的网络速度也会不一样。但StrongVPN我选择线路有一点原则，就是选择当前使用人数相对较少的节点。然后多测试几个节点，选择速度最满意的作为常用节点。我测试的结果是在同区域的线路中，当前使用人数相对较少的节点的速度一般好于人数上万的节点，当然和服务器的带宽也有很大的关系，大家也可以按照下面的方法选择线路连接。
+登录官网用户后台，然后点击'VPN Accounts'，在下拉框里面点击'Legacy VPN Accounts Summary'，查看下面的“Servers available”，就可以查看各个节点和当前使用人数。在不同的网络运营商下，连接同一节点的速度也可能不同，每个节点的网络速度也会不一样。但星辰VPN我选择线路有一点原则，就是选择当前使用人数相对较少的节点。然后多测试几个节点，选择速度最满意的作为常用节点。我测试的结果是在同区域的线路中，当前使用人数相对较少的节点的速度一般好于人数上万的节点，当然和服务器的带宽也有很大的关系，大家也可以按照下面的方法选择线路连接。
 
-**StrongVPN精简版线路选择方法如下**：
+**星辰VPN精简版线路选择方法如下**：
 
 一般登陆入简化版客户端，默认是San Franciso的。如果要换到其它节点，**点Change Location选服务器**：
 
-[![Strong客户端选服务器](https://www.fastvpncn.com/wp-content/uploads/2021/07/strongvpn-change-location-min.png)](#strong线路选择)
+[![Strong客户端选服务器](https://www.fastvpncn.com/wp-content/uploads/2021/07/星辰VPN-change-location-min.png)](#strong线路选择)
 
 在弹出的窗口选择**By server(Manual)手动选择服务器**，再找到想换的国家->城市->连接协议（Open）->具体的节点（见下图），有编号，然后点击Next，之后转换服务器(Switch)，再次connnect就行。**如果一直在connecting，直接点exit，然后重新打开客户端换个节点重新连接就好了**。
 
-[![Strong客户端选服务器](https://www.fastvpncn.com/wp-content/uploads/2021/07/strongvpn-server-switcher-min.png)](#strong线路选择)
+[![Strong客户端选服务器](https://www.fastvpncn.com/wp-content/uploads/2021/07/星辰VPN-server-switcher-min.png)](#strong线路选择)
 
 另外读者lthero-big分享的国内能用线路列表也很不错：
 
@@ -447,11 +447,11 @@ StrongVPN支持WireGuard协议，以iPhone为例，先打开StrongVPN，然后�
 
 - **协议支持**
 
-提供L2TP, SSTP, OpenVPN(UDP/TCP),IPSec,IKEv2和WireGuard，是我使用的VPN服务里面支持协议最多的，不过国内使用OpenVPN就够了。另外说一下，StrongVPN是全局代理，连接成功之后同一系统的软件都走VPN流量。
+提供L2TP, SSTP, OpenVPN(UDP/TCP),IPSec,IKEv2和WireGuard，是我使用的VPN服务里面支持协议最多的，不过国内使用OpenVPN就够了。另外说一下，星辰VPN是全局代理，连接成功之后同一系统的软件都走VPN流量。
 
 - **注重中国市场**
 
-StrongVPN虽然客户端不支持中文，但是对在在中国的用户反应的连接问题很重视，客服在线聊天系统支持中文交流并能实时翻译，能始终在防火墙升级后快速地加入新的可用服务器，修复在中国的连接问题，敏感时期如果遇到连接问题建议找客服获取备用的连接服务器线路和方案。
+星辰VPN虽然客户端不支持中文，但是对在在中国的用户反应的连接问题很重视，客服在线聊天系统支持中文交流并能实时翻译，能始终在防火墙升级后快速地加入新的可用服务器，修复在中国的连接问题，敏感时期如果遇到连接问题建议找客服获取备用的连接服务器线路和方案。
 
 - **加密技术/隐私保护**
 
@@ -463,7 +463,7 @@ StrongVPN虽然客户端不支持中文，但是对在在中国的用户反应�
 
 - **30天退款保证**
 
-StrongVPN同样支持30天退款保证，有足够的时间测试使用。
+星辰VPN同样支持30天退款保证，有足够的时间测试使用。
 
 ## 2.<a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank"> ExpressVPN – 速度体验最佳</a>
 
@@ -507,7 +507,7 @@ ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是�
 
 ### 如何购买ExpressVPN
 
-因为国内政策原因，目前能使用支付宝付款的大厂VPN越来越少，如果只接受支付宝付款方式，就不用考虑ExpressVPN了，[StrongVPN](#1-strongvpn--性价比最佳)目前能用支付宝。购买ExpressVPN优先选择Paypal和信用卡，如果没有带外币功能的信用卡（VISA/MasterCard等），国内银行卡（银联）也能支付。
+因为国内政策原因，目前能使用支付宝付款的大厂VPN越来越少，如果只接受支付宝付款方式，就不用考虑ExpressVPN了，[星辰VPN](#1-星辰VPN--性价比最佳)目前能用支付宝。购买ExpressVPN优先选择Paypal和信用卡，如果没有带外币功能的信用卡（VISA/MasterCard等），国内银行卡（银联）也能支付。
 
 Paypal和信用卡就不用说了，和在其他网站上付款一样，比较简单。付款成功后，登录注册时的邮箱，会收到一封包含ExpressVPN账号和临时密码的邮件，查看邮件并进行密码修改设置、以及复制激活码（ACTIVATION CODE）和登录客户端。
 
@@ -549,7 +549,7 @@ Paypal和信用卡就不用说了，和在其他网站上付款一样，比较�
 
 - ExpresssVPN近2年由于国内用户的大量增加，去年10月被墙针对过一段时间，反反复复挂了几次，虽然后来一直会恢复，但是就国内的使用体验来说，不会比前几年好了。
 
->适合注重隐私数据保护和较好的使用体验的朋友。如果要求性价比，[StrongVPN](#1-strongvpn--性价比最佳)可能更适合你，StrongVPN建议优先连接韩国、欧洲地区、日本、新加坡的服务器节点，速度相对其他节点更快，但整体速度我的体验是不如ExpressVPN，各方面使用体验Expresss还是比StrongVPN好一些。
+>适合注重隐私数据保护和较好的使用体验的朋友。如果要求性价比，[星辰VPN](#1-星辰VPN--性价比最佳)可能更适合你，星辰VPN建议优先连接韩国、欧洲地区、日本、新加坡的服务器节点，速度相对其他节点更快，但整体速度我的体验是不如ExpressVPN，各方面使用体验Expresss还是比星辰VPN好一些。
 
 ### ExpressVPN使用提示
 
@@ -740,23 +740,23 @@ PureVPN拥有多种加密协议，提供安全DNS机制以及其他的隐私保�
 
 2.更新ExpressVPN客户端：如果遇到封锁的特殊时期，一般很快在客户端界面的底下会有提醒，直接点击进去进入镜像网站，国内可访问，下载安装就行了。封锁期如果还没有更新客户端版本，可以尝试使用L2TP和IKEV2协议进行连接，我试过，在封锁期官方推荐的几个节点连不通，但使用其他协议有一些服务器仍可以连上，估计因为用的人少些，服务器IP还没有被针对。
 
-### 2.购买StrongVPN时，出现这样的信息：Suspicious activity detected, please contact the support.
+### 2.购买星辰VPN时，出现这样的信息：Suspicious activity detected, please contact the support.
 
 答：系统应该是检测到了可疑代理IP或邮箱有问题。建议使用本地网络访问（上文有教程）或者换个邮箱试试，再就是联系客服，把代理IP发给他们备注就行了。
 
-### 3.StrongVPN，登录客户端的时候显示：no available account
+### 3.星辰VPN，登录客户端的时候显示：no available account
 
-您好，我付费了StrongVPN并且成功。官网下载的客户端显示无网络，我试了那个精简版客户端，但是在登录客户端的时候显示no available account. 请问要怎么办？
+您好，我付费了星辰VPN并且成功。官网下载的客户端显示无网络，我试了那个精简版客户端，但是在登录客户端的时候显示no available account. 请问要怎么办？
 
 答：Windows、Mac和安卓手机现在建议使用特供的精简客户端，**找客服获取并开通OpenVPN账号就行了**，和客服说你在中国不能连接，客服会帮你搞定，上文中有提示。官网首页右下角有在线帮助聊天框，或者进入用户后台页面提交ticket信。iPhone用户如果遇到不能连接时，找客服获取手动设置连接的地址和方法。
 
-### 4.StrongVPN连接后，访问国内网站慢
+### 4.星辰VPN连接后，访问国内网站慢
 
-答：因为StrongVPN是全局代理，连接后相当于是你的访问指令发送到国外的服务器，国外的服务器接受国内网站的数据，再把数据传送给你，这样绕路太长，肯定比你直接访问国内网站要慢。解决办法是Vmware安装虚拟机，本机不用任何代理，访问国内网站，虚拟机进行翻墙，虚拟机和本机的文件可以共享或拖拽传输的。
+答：因为星辰VPN是全局代理，连接后相当于是你的访问指令发送到国外的服务器，国外的服务器接受国内网站的数据，再把数据传送给你，这样绕路太长，肯定比你直接访问国内网站要慢。解决办法是Vmware安装虚拟机，本机不用任何代理，访问国内网站，虚拟机进行翻墙，虚拟机和本机的文件可以共享或拖拽传输的。
 
 另外有读者说找客服要的.bat文件，VPN连接后运行就可以分流了，只适用于Windows客户端，基于安全角度考虑我没使用过，想要分流的读者可以试试。
 
-### 5.StrongVPN连接成功，但无法访问外网
+### 5.星辰VPN连接成功，但无法访问外网
 
 答：有少数读者反映Strong连接成功，但无法上外网，一般的应对方法是断开重连、或连其他节点就能解决大部分问题。如果一直遇到这种情况，咨询了客服之后，发现可能需要修改DNS。步骤如下：
 
@@ -774,7 +774,7 @@ PureVPN拥有多种加密协议，提供安全DNS机制以及其他的隐私保�
 
 ### 7.有没有分流的VPN，国内网站使用本地网络，国外网站使用VPN代理翻墙？
 
-答：在目前适用的VPN中，ExpressVPN可以设置分应用分流（Split Tunneling功能），比如设置Chrome翻墙，走VPN流量；火狐（Safari等）走本地网络流量，反之亦然，靠自己设置就行了。StrongVPN一般是全局代理，不过有用户找客服询问，会给一个.bat 脚本，在vpn连接后运行即可分流，不过只适用于Windows系统。
+答：在目前适用的VPN中，ExpressVPN可以设置分应用分流（Split Tunneling功能），比如设置Chrome翻墙，走VPN流量；火狐（Safari等）走本地网络流量，反之亦然，靠自己设置就行了。星辰VPN一般是全局代理，不过有用户找客服询问，会给一个.bat 脚本，在vpn连接后运行即可分流，不过只适用于Windows系统。
 
 ### 8.ExpressVPN突然无法连接，怎么办，有什么解决方法吗？
 
@@ -915,9 +915,9 @@ PandaVPN由中文团队开发，所以对中文支持很好，相比其他几家
 
 熊猫VPN创办时间不长，我使用也不到半年，虽然总体体验还行，但是**长期的可用性我还不清楚，总之对于这款，如果想入手，建议先购买短期套餐，觉得不错再续费使用，总之，新创立的小品牌服务质量和售后还要观望，有跑路风险，这方面还是比不过已成熟运营多年的大品牌**。
 
-虽说名字是VPN，但我感觉这家的底层技术更类似于SSR，因为客户端里能区分全局代理或分应用代理，官网称有256位加密保护，不过我感觉对于隐私安全的保护不如[StrongVPN](#1-strongvpn--性价比最佳)或[Express](#2-expressvpn--速度体验最佳)、以及Nord，暂且把它作为VPN看待。
+虽说名字是VPN，但我感觉这家的底层技术更类似于SSR，因为客户端里能区分全局代理或分应用代理，官网称有256位加密保护，不过我感觉对于隐私安全的保护不如[星辰VPN](#1-星辰VPN--性价比最佳)或[Express](#2-expressvpn--速度体验最佳)、以及Nord，暂且把它作为VPN看待。
 
-最开始使用体验不错，但近一个月的**稳定性**体验下降了，估计是用的人多了，被墙“重点关照”，而服务器的承载能力没提升，这方面比Express和StrongVPN差一些，不过勉强也能接受。
+最开始使用体验不错，但近一个月的**稳定性**体验下降了，估计是用的人多了，被墙“重点关照”，而服务器的承载能力没提升，这方面比Express和星辰VPN差一些，不过勉强也能接受。
 
 **有用户最近反映PandaVPN退款很墨迹**，如果介意的朋友还是避开，或者试用一个月之后再决定是否续费。
 
