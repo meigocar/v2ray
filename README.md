@@ -234,7 +234,7 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 
 网站内部提供了多个购买支付渠道，即使支付宝也多个渠道，建议大家支付时，使用支付宝渠道。特别是手机端，网站可以直接拉起支付宝客户端进行支付，如果使用微信支付，则会比较麻烦，可能要进行扫码支付。或者按照里面的提示进行支付，总之建议您使用支付宝。
 
-**购买后，<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">进入Strong官网</a>并点击页面右上角Help，查找 “在中国境内如何下载，安装以及使用星辰VPN”，是最新针对中国用户发布的中文版使用教程。**
+**购买后，<a rel="nofollow noopener" href="https://tg1.reami.us/#/register?code=nRx0UI5X" target="_blank">进入星辰官网</a>并点击页面右上角Help，查找 “在中国境内如何下载，安装以及使用星辰VPN”，是最新针对中国用户发布的中文版使用教程。**
 
 如何购买和使用请看下文，尤其是使用的时候有几个需要注意的事项。
 
